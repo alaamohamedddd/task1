@@ -1,0 +1,21 @@
+.one{
+    color:aqua;
+    text-align: center;
+}
+.two{
+    
+text-align: center;
+display: block;
+}
+.three{
+width: 100%;
+display: block;
+position: relative;
+left: 45%;
+}
+ul{
+    list-style-position: inside;
+}
+ul li a{
+    text-decoration: none;
+}
